@@ -3,11 +3,12 @@
 
 A blockchain-inspired freelancing platform enabling secure and transparent hiring, bidding, and dispute resolution between clients and freelancers — with role-based access and community-driven features.
 
-#👥 Team Members
+👥 Team Members
 Roll No.	Name	Role
 16010123300	Saniya Navelkar	Admin Panel & Backend APIs
 16010123322	Shreya Tiwari	Authentication & Frontend
 16010123323	Shreya Nair	Dispute & Feedback System
+
 # Project Objective
 
 Build a platform where freelancers connect with clients seamlessly, featuring:
