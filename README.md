@@ -1,6 +1,8 @@
 # FreeLynx-A-Decentralized-Freelancing-Platform-for-Transparent-Collaboration
 🧩 FreeLynx – Decentralized Freelancing Platform
 
+https://freelynx-project.vercel.app/
+
 A blockchain-inspired freelancing platform enabling secure and transparent hiring, bidding, and dispute resolution between clients and freelancers — with role-based access and community-driven features.
 
 👥 Team Members
